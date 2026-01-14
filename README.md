@@ -29,24 +29,18 @@ Produces human-readable audit reports
 This mirrors how real industrial safety systems are built.
 
 ### System Architecture
+
 Image / Video Input
-        ↓
 YOLO Object Detection
-        ↓
 Safety Rule Engine
 (Person detected → PPE presence/absence)
-        ↓
 Safety Context Builder
 (Detected PPE vs Missing PPE)
-        ↓
 Local LLM (Gemma via Ollama)
-        ↓
 Human-Readable Safety Explanation
-        ↓
 PDF Report + Annotated Video
-        ↓
+        
 ZIP Safety Audit Package
-
 
 ### How CV + LLM Work Together
 Computer Vision (YOLO)
