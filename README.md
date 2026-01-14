@@ -175,10 +175,10 @@ UI Screenshots
 
 ### Demo Videos 
 Image Safety Demo: 
-![Google Drive link for test results + model](https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing)
+https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing
 
 Video Safety Audit Demo: 
-![Google Drive link for test results + model](https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing)
+https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing
 
 
 
