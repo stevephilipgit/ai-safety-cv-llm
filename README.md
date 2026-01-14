@@ -1,4 +1,4 @@
-### AI Safety Monitoring System (Computer Vision + LLM)
+## AI Safety Monitoring System (Computer Vision + LLM)
 An end-to-end AI-powered workplace safety auditing system that combines Computer Vision (YOLO) and a Local Large Language Model (Gemma via Ollama) to detect PPE compliance, explain safety risks, and generate audit-ready reports.
 This project demonstrates real-world AI system design, not just model inference.
 
