@@ -2,6 +2,7 @@
 An end-to-end AI-powered workplace safety auditing system that combines Computer Vision (YOLO) and a Local Large Language Model (Gemma via Ollama) to detect PPE compliance, explain safety risks, and generate audit-ready reports.
 This project demonstrates real-world AI system design, not just model inference.
 
+[image_alt_text](/path/to/image.png)).
 ### Key Capabilities
 
 🧍 Person & PPE detection (Helmet, Mask, Vest, Gloves, Boots)
@@ -28,8 +29,12 @@ Prevents hallucination by design
 Produces human-readable audit reports
 This mirrors how real industrial safety systems are built.
 
+[image_alt_text](/path/to/image.png)).
+[image_alt_text](/path/to/image.png)).
+
 ### System Architecture
 
+[image_alt_text](/path/to/image.png)).
 Image / Video Input
 YOLO Object Detection
 Safety Rule Engine
