@@ -173,20 +173,14 @@ Original input video
 ### Demo & Screenshots
 UI Screenshots 
 
-
-Image Analysis UI
-
-![Sample ui](results_tested/ai_safety_image_ui.png)
-
-
-
-Video Audit UI
-results_tested/ai_safety_video_ui.png
-
-
 ### Demo Videos 
-Image Safety Demo: (YouTube / Drive link)
-Video Safety Audit Demo: (YouTube / Drive link)
+Image Safety Demo: 
+![Google Drive link for test results + model](https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing)
+
+Video Safety Audit Demo: 
+![Google Drive link for test results + model](https://drive.google.com/drive/folders/180rRhx187b_zgmJ2U2JA7JmozOyoW5aY?usp=sharing)
+
+
 
 
 
