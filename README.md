@@ -2,7 +2,7 @@
 An end-to-end AI-powered workplace safety auditing system that combines Computer Vision (YOLO) and a Local Large Language Model (Gemma via Ollama) to detect PPE compliance, explain safety risks, and generate audit-ready reports.
 This project demonstrates real-world AI system design, not just model inference.
 
-###🚀 Key Capabilities
+### Key Capabilities
 
 🧍 Person & PPE detection (Helmet, Mask, Vest, Gloves, Boots)
 🧠 Context-aware LLM safety reasoning (no hallucination)
@@ -17,7 +17,7 @@ This project demonstrates real-world AI system design, not just model inference.
 
 
 
-###🧠 Why This Project Is Different
+### Why This Project Is Different
 
 Most CV safety demos only detect objects.
 This system:
@@ -28,7 +28,7 @@ Prevents hallucination by design
 Produces human-readable audit reports
 This mirrors how real industrial safety systems are built.
 
-###🏗️ System Architecture
+### System Architecture
 Image / Video Input
         ↓
 YOLO Object Detection
@@ -48,7 +48,7 @@ PDF Report + Annotated Video
 ZIP Safety Audit Package
 
 
-###🔍 How CV + LLM Work Together
+### How CV + LLM Work Together
 Computer Vision (YOLO)
 Detects objects with confidence
 Never guesses missing PPE
@@ -62,7 +62,7 @@ LLM (Gemma)
 Triggered once per image or frame
 Receives structured safety context
 
-###Explains:
+### Explains:
 What PPE is correctly worn
 What PPE is missing
 Why missing PPE is risky
@@ -72,7 +72,7 @@ No punishment, legal, or policy enforcement language
 
 
 
-###📂 Project Structure
+### Project Structure
 Safety_CV&LLM/
 │
 ├── backend/
@@ -107,7 +107,7 @@ Safety_CV&LLM/
 └── .gitignore
 
 
-###🧰 Tech Stack
+### Tech Stack
 Backend
 Python 3.10+
 FastAPI
@@ -127,7 +127,7 @@ Gemma 2B (local inference via Ollama)
 
 
 
-###📦 Installation
+### Installation
 1️⃣ Clone Repository
 git clone https://github.com/stevephilipgit/Safety_CV_LLM.git
 cd Safety_CV_LLM
@@ -158,7 +158,7 @@ http://127.0.0.1:8000/docs
 streamlit run frontend/ui/app.py
 
 
-###🧪 Example Outputs
+### Example Outputs
 
 Image Safety Analysis
 Detected PPE shown clearly
@@ -170,13 +170,13 @@ Aggregated violations
 Annotated output video
 
 
-###Downloadable ZIP:
+### Downloadable ZIP:
 Annotated video
 PDF audit report
 Original input video
 
 
-###🎥 Demo & Screenshots
+### Demo & Screenshots
 UI Screenshots 
 
 
@@ -188,7 +188,7 @@ Video Audit UI
 results_tested/ai_safety_video_ui.png
 
 
-###Demo Videos (
+### Demo Videos (
 Image Safety Demo: (YouTube / Drive link)
 Video Safety Audit Demo: (YouTube / Drive link)
 
@@ -202,12 +202,12 @@ Workplace risk analysis
 Safety officer decision support
 
 
-##👨‍💻 Author
+## Author
 Name: Steve Philip
 GitHub: https://github.com/stevephilipgit
 Email: stevephilip.me86@gmail.com 
 
-###⭐ Notes
+### Notes
 
 Designed to avoid LLM hallucination
 Separation of concerns (CV ≠ Reasoning)
