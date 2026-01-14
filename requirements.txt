@@ -1,0 +1,23 @@
+# Computer Vision
+ultralytics
+opencv-python
+
+# Backend API
+fastapi
+uvicorn
+python-multipart
+
+# LLM (local / optional)
+langchain
+langchain-community
+langchain-ollama
+
+# Utilities
+pydantic
+numpy
+reportlab
+Pillow
+requests
+
+# Video Processing
+streamlit 

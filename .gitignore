@@ -1,0 +1,47 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+
+# =====================
+# Virtual Environments
+# =====================
+.venv/
+venv/
+
+# =====================
+# Environment variables
+# =====================
+.env
+
+# =====================
+# ML Models (DO NOT COMMIT)
+# =====================
+backend/models/
+*.pt
+*.onnx
+*.h5
+
+# =====================
+# Results / Outputs
+# =====================
+uploads/
+outputs/
+runs/
+reports/
+
+# =====================
+# IDE / OS
+# =====================
+.vscode/
+.idea/
+.DS_Store
+
+results_tested/
+*.mp4
+*.zip
+backend/models/
+*.pt
+
