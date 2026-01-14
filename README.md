@@ -175,14 +175,16 @@ UI Screenshots
 
 
 Image Analysis UI
-results_tested/ai_safety_image_ui.png
+
+![Sample ui](results_tested/ai_safety_image_ui.png)
+
 
 
 Video Audit UI
 results_tested/ai_safety_video_ui.png
 
 
-### Demo Videos (
+### Demo Videos 
 Image Safety Demo: (YouTube / Drive link)
 Video Safety Audit Demo: (YouTube / Drive link)
 
